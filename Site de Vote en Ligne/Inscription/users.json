@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Adrien",
+        "email": "adrien@ge.fr",
+        "password": "a"
+    },
+    {
+        "name": "Adrien",
+        "email": "adrien@gm.fr",
+        "password": "a"
+    },
+    {
+        "name": "Omo",
+        "email": "omo@mo.fr",
+        "password": "o"
+    },
+    {
+        "name": "anzora ",
+        "email": "valeria@gmail.com",
+        "password": "Vale"
+    },
+    {
+        "name": "Remi",
+        "email": "remi@gmail.co",
+        "password": "r"
+    },
+    {
+        "name": "Moi",
+        "email": "cest@moi.oui",
+        "password": "$2y$10$dcfOfiJE5yq2OMINLnoaoerd55uS\/9HiRZO7WYZtzO7LP7FDzD882"
+    },
+    {
+        "name": "John",
+        "email": "john.doe123@example.com",
+        "password": "$2y$10$yDkXwbFCaaDxtJaXtaN9a.svdpBCiOetTdRjchHs.qF.lFUTuLCFm"
+    },
+    {
+        "name": "Emily",
+        "email": "emily.smith456@hotmail.com",
+        "password": "$2y$10$1oIMFedW0eJwl966ZUhL4uwo7A3.VBT5r2LwoiAbk2vVJztUIV7x."
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "id": "66156766d8531",
+        "organizer": "adrien@gm.fr",
+        "organizerName": "Adrien",
+        "title": "Bataille",
+        "question": "On se bat ?",
+        "options": [
+            {
+                "option": "Oui",
+                "votes": 1
+            },
+            {
+                "option": "J'ai peur",
+                "votes": "0"
+            }
+        ],
+        "votants": [
+            {
+                "email": "adirne@yop.fr",
+                "proxyNumber": "0",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "remi@gmail.co",
+                "proxyNumber": "2",
+                "votesAvailable": 3,
+                "votesUsed": 0,
+                "votesLeft": 3
+            },
+            {
+                "email": "adrien@gm.fr",
+                "proxyNumber": "0",
+                "votesAvailable": 1,
+                "votesUsed": 1,
+                "votesLeft": 0
+            }
+        ],
+        "totalVotesAvailable": 5,
+        "totalVotesUsed": 1,
+        "finished": true
+    },
+    {
+        "id": "6615739840bc0",
+        "organizer": "valeria@gmail.com",
+        "organizerName": "anzora ",
+        "title": "jijijojo",
+        "question": "que tal?",
+        "options": [
+            {
+                "option": "bien",
+                "votes": 1
+            },
+            {
+                "option": "de la verga",
+                "votes": 2
+            }
+        ],
+        "votants": [
+            {
+                "email": "valeria@gmail.com",
+                "proxyNumber": "2",
+                "votesAvailable": 3,
+                "votesUsed": 3,
+                "votesLeft": 0
+            }
+        ],
+        "totalVotesAvailable": 3,
+        "totalVotesUsed": 3,
+        "finished": true
+    },
+    {
+        "id": "6615de8947a68",
+        "organizer": "remi@gmail.co",
+        "organizerName": "Remi",
+        "title": "Haha",
+        "question": "Es tu drole ?",
+        "options": [
+            {
+                "option": "Bien sur",
+                "votes": 1
+            },
+            {
+                "option": "Peut etre",
+                "votes": "0"
+            },
+            {
+                "option": "Ah",
+                "votes": "0"
+            }
+        ],
+        "votants": [
+            {
+                "email": "adrien@gm.fr",
+                "proxyNumber": "0",
+                "votesAvailable": 1,
+                "votesUsed": 1,
+                "votesLeft": 0
+            }
+        ],
+        "totalVotesAvailable": 1,
+        "totalVotesUsed": 1,
+        "finished": false
+    },
+    {
+        "id": "6616cfab8a416",
+        "organizer": "adrien@gm.fr",
+        "organizerName": "Adrien",
+        "title": "Hoho",
+        "question": "HIhi ?",
+        "options": [
+            {
+                "option": "Ah ",
+                "votes": "0"
+            },
+            {
+                "option": "Bruh",
+                "votes": "0"
+            }
+        ],
+        "votants": [
+            {
+                "email": "adirne@yop.fr",
+                "proxyNumber": "0",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "remi@gmail.co",
+                "proxyNumber": "0",
+                "votesAvailable": 3,
+                "votesUsed": 0,
+                "votesLeft": 3
+            },
+            {
+                "email": "omo@mo.fr",
+                "proxyNumber": "0",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            }
+        ],
+        "totalVotesAvailable": 4,
+        "totalVotesUsed": 0,
+        "finished": false
+    },
+    {
+        "id": "6616dd0cbcaf6",
+        "organizer": "adrien@gm.fr",
+        "organizerName": "Adrien",
+        "title": "Plus de procuration",
+        "question": "C est bien ?",
+        "options": [
+            {
+                "option": "Oui",
+                "votes": 1
+            },
+            {
+                "option": "non",
+                "votes": 1
+            },
+            {
+                "option": "je m en fous",
+                "votes": "0"
+            }
+        ],
+        "votants": [
+            {
+                "email": "remi@gmail.co",
+                "votesAvailable": 2,
+                "votesUsed": 2,
+                "votesLeft": 0
+            },
+            {
+                "email": "steve@uni.uk",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "omo@mo.fr",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "poli@do.cm",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            }
+        ],
+        "totalVotesAvailable": 5,
+        "totalVotesUsed": 2,
+        "finished": true
+    },
+    {
+        "id": "6616df8774c0b",
+        "organizer": "cest@moi.oui",
+        "organizerName": "Moi",
+        "title": "Feeling",
+        "question": "Vous allez bien ?",
+        "options": [
+            {
+                "option": "Oui ",
+                "votes": "0"
+            },
+            {
+                "option": "Non",
+                "votes": "0"
+            },
+            {
+                "option": "Bof",
+                "votes": "0"
+            }
+        ],
+        "votants": [
+            {
+                "email": "alex.jones789@gmail.com",
+                "votesAvailable": 3,
+                "votesUsed": 0,
+                "votesLeft": 3
+            },
+            {
+                "email": "sarah.brown321@yahoo.com",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "mike.wilson987@outlook.com",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            }
+        ],
+        "totalVotesAvailable": 5,
+        "totalVotesUsed": 0,
+        "finished": true
+    },
+    {
+        "id": "6617d3b0568a0",
+        "organizer": "cest@moi.oui",
+        "organizerName": "Moi",
+        "title": "Crous",
+        "question": "Lieu ?",
+        "options": [
+            {
+                "option": "Oui",
+                "votes": "0"
+            },
+            {
+                "option": "Non",
+                "votes": "0"
+            }
+        ],
+        "votants": [
+            {
+                "email": "john.doe123@example.com",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "emily.smith456@hotmail.com",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "alex.jones789@gmail.com",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "sarah.brown321@yahoo.com",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            },
+            {
+                "email": "cest@moi.oui",
+                "votesAvailable": 1,
+                "votesUsed": 0,
+                "votesLeft": 1
+            }
+        ],
+        "totalVotesAvailable": 5,
+        "totalVotesUsed": 0,
+        "finished": false
+    }
+]

@@ -1,0 +1,49 @@
+#signupForm, #loginForm {
+    padding: 10px;
+    width: 900px;
+    position : relative;
+	margin-left: 200px;
+}
+
+#signupForm input {
+    margin-top: 5px;
+    height: 25px;
+}
+
+#loginForm input {
+    margin-top: 5px;
+    height: 25px;
+}
+
+#email {
+    width: 35%;
+    box-sizing: border-box;
+}
+
+#password {
+    width: 25%;
+    box-sizing: border-box;
+}
+
+#confirmPassword {
+    width: 25%;
+    box-sizing: border-box;
+}
+
+#alert-password, #alert-email{
+    margin-top: 5px;
+    color: red;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#signup-success{
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    position : relative;
+    display : flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}

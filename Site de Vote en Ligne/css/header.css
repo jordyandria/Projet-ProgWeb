@@ -1,0 +1,67 @@
+#headerContent{
+	max-width: 	1200px;
+	margin : 0 auto;
+	position : relative;
+	padding: 0;
+	display : flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: row;
+}
+
+#header{
+	padding: 10px;
+	color: white;
+    background-color: #131679;
+}
+
+#logo{
+	margin-right: auto;
+}
+
+#logo img{
+    max-height: 100px;
+}
+
+#headerPhrase{	
+    font-size: 24px;
+	margin-right: 0;
+}
+
+#headerNavBar {
+    display: flex;
+    justify-content: center; 
+    padding: 10px;
+    background-color: #131679;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto; 
+}
+
+#login-button, #logout-button{
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #131679;
+    color: white;
+    cursor: pointer;
+	border-radius: 20px;
+}
+
+#signup-button, #user-email {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: white;
+    color: #131679;
+    cursor: pointer;
+	border-radius: 20px;
+}
+
+#login-button:hover, #logout-button:hover {
+    background-color: #0f1059;
+}
+
+#signup-button:hover {
+	background-color: #f2f2f2;
+}

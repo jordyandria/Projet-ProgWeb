@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../police/montserrat/montserrat-v15-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../police/montserrat/montserrat-v15-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../police/montserrat/montserrat-v15-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../police/montserrat/montserrat-v15-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('../police/montserrat/montserrat-v15-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../police/montserrat/montserrat-v15-latin-700.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+
+body{
+	font-family: 'Montserrat';
+}
+

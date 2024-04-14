@@ -1,0 +1,65 @@
+[
+    {
+        "id": "6613bf83be86d",
+        "organizer": "adrien@gm.fr",
+        "listName": "Licence",
+        "voters": [
+            "adirne@yop.fr",
+            "remi@gmail.co",
+            "steve@uni.uk"
+        ]
+    },
+    {
+        "id": "6613da2b760c2",
+        "organizer": "adrien@gm.fr",
+        "listName": "Master",
+        "voters": [
+            "omo@mo.fr",
+            "poli@do.cm"
+        ]
+    },
+    {
+        "id": "6613f0fad9584",
+        "organizer": "adrien@gm.fr",
+        "listName": "Moi",
+        "voters": [
+            "adrien@gm.fr"
+        ]
+    },
+    {
+        "id": "6615738d3d418",
+        "organizer": "valeria@gmail.com",
+        "listName": "gente",
+        "voters": [
+            "valeria@gmail.com"
+        ]
+    },
+    {
+        "id": "6615de84eaac0",
+        "organizer": "remi@gmail.co",
+        "listName": "Yes",
+        "voters": [
+            "adrien@gm.fr"
+        ]
+    },
+    {
+        "id": "6616df7fcf05f",
+        "organizer": "cest@moi.oui",
+        "listName": "Reunion mardi",
+        "voters": [
+            "john.doe123@example.com",
+            "emily.smith456@hotmail.com",
+            "alex.jones789@gmail.com",
+            "sarah.brown321@yahoo.com",
+            "mike.wilson987@outlook.com"
+        ]
+    },
+    {
+        "id": "6617d3a96128d",
+        "organizer": "cest@moi.oui",
+        "listName": "Moi",
+        "voters": [
+            "cest@moi.oui"
+        ]
+    }
+]

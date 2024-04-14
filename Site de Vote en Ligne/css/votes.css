@@ -1,0 +1,298 @@
+#votesContent{
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    position : relative;
+    display : flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-direction: column;
+}
+
+#users-polls-container, #participating-polls-container{
+    width: 1200px;
+    margin-bottom: 20px;
+}
+
+#votes-start{
+    display : flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#create-poll-button {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    background-color: #131679;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+#create-poll-form{
+    padding: 10px;
+    width: 900px;
+    position : relative;
+	margin-left: 0;
+}
+
+#create-poll-form input {
+    margin-top: 5px;
+    height: 25px;
+}
+
+#create-voters-form input {
+    margin-top: 5px;
+    height: 25px;
+}
+
+#list-name{
+    width: 35%;
+    box-sizing: border-box;
+}
+
+#voter-emails{
+    margin-top: 5px;
+    height: 180px;
+    width: 70%;
+    box-sizing: border-box;
+}
+
+#title {
+    width: 45%;
+    box-sizing: border-box;
+}
+
+#question {
+    width: 60%;
+    box-sizing: border-box;
+}
+
+.label-proxy {
+    margin: 10px;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#add-option-button, #remove-option-button, #add-voter-button, #remove-voter-button {
+    border: none;
+    padding: 5px 10px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    border-radius: 4px; 
+}
+
+#create-voters-list-button{
+    border: none;
+    padding: 5px 10px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer; 
+    border-radius: 4px; 
+}
+
+.delete-voters-list-button{
+    border: none;
+    padding: 5px 10px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    margin-left: auto;
+    cursor: pointer; 
+    border-radius: 4px; 
+    background-color: #f44336;
+    color: white; 
+
+}
+
+#add-option-button, #add-voter-button, #create-voters-list-button {
+    background-color: #ecebeb; 
+    color: #1c21a8;
+}
+
+#remove-option-button, #remove-voter-button {
+    background-color: #f44336;
+    color: white; 
+}
+
+#add-option-button:hover, #add-voter-button:hover, #create-voters-list-button:hover {
+    background-color: #cfcfcf; 
+}
+
+#remove-option-button:hover, #remove-voter-button:hover {
+    background-color: #d32f2f; 
+}
+
+.indication {
+    font-size: 0.8em; /* rend le texte plus petit */
+    font-style: italic; /* rend le texte en italique */
+    color :#b1b1bd;
+    font-weight: normal;
+}
+
+#alert-voters-email, #alert-voters-list, #alert-create-poll, #alert-polls-list{
+    margin-top: 5px;
+    color: red;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+.voter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#create-poll-buttons{
+    padding-top: 20px;
+}
+
+.poll-container, .voters-list-container, #poll-details-container, #poll-details-question-container, #poll-details-voters-container, #user-vote-container{
+    background-color: rgb(253, 252, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(221, 221, 221);
+    border-image: initial;
+    border-radius: 4px;
+}
+
+.poll-container{
+    margin-bottom: 20px;
+}
+
+#poll-details-container, #poll-details-question-container, #poll-details-voters-container{
+    margin-bottom: 10px;
+}
+
+.voters-list-content{
+    padding: 0.4em 0.6em;   
+}
+
+.poll-content, #poll-details-content, #poll-details-question-content, #poll-details-voters-content, #user-vote-content{
+    padding: 0.8em 1em;
+}
+
+.poll-menu-content{
+    padding : 0.6em 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+#user-vote-question-content{
+    padding : 0.6em 1em;
+    margin-bottom: 5px;
+}
+
+.voters-list-menu{
+    background-color: rgb(240, 240, 240);
+    padding: 2px 9px;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.poll-menu{
+    background-color: rgb(240, 240, 240);
+    display: flex;
+}
+
+#user-vote-question-container{
+    background-color: rgb(240, 240, 240);
+    border-radius: 4px;
+}
+
+.poll-title{
+    font-size: 1.2em;
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+#poll-details-title, #user-vote-title{
+    font-size: 1.8em;
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+#user-vote-question{
+    font-size: 1.4em;
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+#user-vote-options{
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+#poll-details-question, #poll-details-voters-title, #poll-details-voters-title{
+    font-size: 1.6em;
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+.non-finished-poll-indication, .finished-poll-indication{
+    background-color: green;
+    margin-right: 5px;
+    color: white;
+    padding: 1px 4px;
+    border-radius: 4px;
+    font-size: 0.8em;
+}
+
+.finished-poll-indication{
+    background-color: #0458d6;
+
+}
+
+#poll-details-container, #poll-details-super-container, #poll-details-question-container, #poll-details-voters-container, #poll-vote-super-container, #user-vote-container, #poll-results-super-container{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+}
+
+.poll-details-button {
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 2px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #ecebeb;
+    color: #1c21a8;
+}
+
+.poll-details-button:hover{
+    background-color: #cfcfcf;
+}
+
+#vote-left-indication{
+    margin: 10px;
+}
